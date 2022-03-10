@@ -2,7 +2,7 @@
 /**
   * main  -  Entry
   *Author -Kamala
-   *Description- Print with Puts
+   *Description- Print with Printf
   *
     *Return: main
 **/
