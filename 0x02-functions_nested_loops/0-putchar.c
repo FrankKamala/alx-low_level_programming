@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* main - using Putchar to print string 
+* main - using Putchar to print string
 *
 * Description:  print severally to complete sentence
 * Return:0
