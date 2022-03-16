@@ -1,9 +1,10 @@
 #include "main.h"
 /**
- *print_alphabet - print the alphabet
- * Descrition: print the alphabet ten x
- * Return: void
- */
+* main - entry
+*
+* Description:  print alphabet ten x
+* Return:0
+*/
 void print_alphabet_x10(void)
 {
 
