@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _abs - prints the absolute value 
+ * _abs - prints the absolute value
  * @n: The number whose absolute value is to be found
  *
  * Return: |n| of n
