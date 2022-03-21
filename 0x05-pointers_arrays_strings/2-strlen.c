@@ -8,6 +8,9 @@
 */
 int _strlen(char *s)
 {
-int urefu;
-urefu = strlen(char *s);
+int u = 0;
+while (s[u])
+u++;
+
+return (u);
 }
