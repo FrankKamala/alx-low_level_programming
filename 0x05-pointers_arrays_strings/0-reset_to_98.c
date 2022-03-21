@@ -11,6 +11,8 @@ int reset_to_98(int *n)
 {
 int  num = 98;
 n = &num;
+printf("value of N is:%d", *n);
+
 }
 
 
