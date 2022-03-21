@@ -7,7 +7,7 @@
 */
 int main(void)
 {
-int reset_to_98(int *n)
+void reset_to_98(int *n)
 {
 int  num = 98;
 n = &num;
