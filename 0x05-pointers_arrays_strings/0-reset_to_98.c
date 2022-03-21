@@ -1,15 +1,14 @@
 #include "main.h"
 #include <stdio.h>
 /**
-* main - check the code
-* Return: Always 0.
-* parameter - n
+* reset_to_98 - reset argument value to 98
+* Return: void
+* @n: pointer
 */
 
 void reset_to_98(int *n)
 {
-int  num = 98;
-n = &num;
+*n=98;
 printf("value of N is:%d", *n);
 
 }
